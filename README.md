@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hri123phapale
+- 👋 Hi, I’m @Hrushikesh Phapale
 - 👀 I’m interested in .Net Core, Blazor, Jquery, EntityFramework
 - 🌱 I’m currently learning Blazor
 - 💞️ I’m looking to collaborate on ...
